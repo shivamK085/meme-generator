@@ -24,7 +24,7 @@ You can add your own top and bottom text to generate funny memes instantly.
    ```bash
    git clone https://github.com/your-username/meme-generator.git
    cd meme-generator
-2. **nstall dependencies**
+2. **install dependencies**
    ```bash
    npm install
 4. **Start the development server**
@@ -38,23 +38,21 @@ You can add your own top and bottom text to generate funny memes instantly.
 
 ## ▶️ Usage
 
-Enter text in the Top Text and Bottom Text fields.
-
-Click "Get a new meme image 🖼" to fetch a random meme template.
-
-Your custom meme will be displayed with the entered text.
+-Enter text in the Top Text and Bottom Text fields.
+-Click "Get a new meme image 🖼" to fetch a random meme template.
+-Your custom meme will be displayed with the entered text.
 
 
 
 ## 🛠️ Built With
 
-React
+-React
  (Hooks: useState, useEffect)
 
-Vite
+-Vite
  (fast development server)
 
-Imgflip API
+-Imgflip API
 
 
 
@@ -62,13 +60,17 @@ Imgflip API
 
 Contributions are welcome!
 
-Fork the repo
+1. Fork the repo
 
-Create a branch (git checkout -b feature-name)
+2. Create a branch 
+   ```bash
+   git checkout -b feature-name
 
-Commit changes (git commit -m "Added feature")
+3. Commit changes ()
+   ```bash
+   git commit -m "Added feature"
 
-Push and open a Pull Request
+4. Push and open a Pull Request
 
 
 
