@@ -38,21 +38,21 @@ You can add your own top and bottom text to generate funny memes instantly.
 
 ## ▶️ Usage
 
--Enter text in the Top Text and Bottom Text fields.
--Click "Get a new meme image 🖼" to fetch a random meme template.
--Your custom meme will be displayed with the entered text.
+- Enter text in the Top Text and Bottom Text fields.
+- Click "Get a new meme image 🖼" to fetch a random meme template.
+- Your custom meme will be displayed with the entered text.
 
 
 
 ## 🛠️ Built With
 
--React
+- React
  (Hooks: useState, useEffect)
 
--Vite
+- Vite
  (fast development server)
 
--Imgflip API
+- Imgflip API
 
 
 
@@ -66,7 +66,7 @@ Contributions are welcome!
    ```bash
    git checkout -b feature-name
 
-3. Commit changes ()
+3. Commit changes
    ```bash
    git commit -m "Added feature"
 
