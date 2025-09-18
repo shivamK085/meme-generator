@@ -11,12 +11,12 @@ You can add your own top and bottom text to generate funny memes instantly.
 - Displays memes dynamically with updated captions.
 - Generates a **random meme image** on button click.
 
----
+
 
 ## 🌐 Live Demo
 👉 [Click here to try the Meme Generator](https://your-deployment-link.com)
 
----
+
 
 ## ⚙️ Installation & Setup
 
@@ -25,12 +25,16 @@ You can add your own top and bottom text to generate funny memes instantly.
    git clone https://github.com/your-username/meme-generator.git
    cd meme-generator
 2. **nstall dependencies**
+   ```bash
    npm install
-3. **Start the development server**
+4. **Start the development server**
+   ```bash
    npm run dev
-4. **Open in browser** → http://localhost:5173
+6. **Open in browser**
+   ```bash
+    http://localhost:5173
 
----
+
 
 ## ▶️ Usage
 
@@ -40,7 +44,7 @@ Click "Get a new meme image 🖼" to fetch a random meme template.
 
 Your custom meme will be displayed with the entered text.
 
----
+
 
 ## 🛠️ Built With
 
@@ -52,7 +56,7 @@ Vite
 
 Imgflip API
 
----
+
 
 ## 🤝 Contributing
 
@@ -66,7 +70,7 @@ Commit changes (git commit -m "Added feature")
 
 Push and open a Pull Request
 
----
+
 
 ## 📸 Demo
 
